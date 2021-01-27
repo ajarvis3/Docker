@@ -1,0 +1,16 @@
+E:\OneDrive\Documents\Programming\Docker\App\obj\Debug\net5.0\NetCore.Docker.csprojAssemblyReference.cache
+E:\OneDrive\Documents\Programming\Docker\App\obj\Debug\net5.0\NetCore.Docker.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Documents\Programming\Docker\App\obj\Debug\net5.0\NetCore.Docker.AssemblyInfoInputs.cache
+E:\OneDrive\Documents\Programming\Docker\App\obj\Debug\net5.0\NetCore.Docker.AssemblyInfo.cs
+E:\OneDrive\Documents\Programming\Docker\App\obj\Debug\net5.0\NetCore.Docker.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\Programming\Docker\App\bin\Debug\net5.0\NetCore.Docker.exe
+E:\OneDrive\Documents\Programming\Docker\App\bin\Debug\net5.0\NetCore.Docker.deps.json
+E:\OneDrive\Documents\Programming\Docker\App\bin\Debug\net5.0\NetCore.Docker.runtimeconfig.json
+E:\OneDrive\Documents\Programming\Docker\App\bin\Debug\net5.0\NetCore.Docker.runtimeconfig.dev.json
+E:\OneDrive\Documents\Programming\Docker\App\bin\Debug\net5.0\NetCore.Docker.dll
+E:\OneDrive\Documents\Programming\Docker\App\bin\Debug\net5.0\ref\NetCore.Docker.dll
+E:\OneDrive\Documents\Programming\Docker\App\bin\Debug\net5.0\NetCore.Docker.pdb
+E:\OneDrive\Documents\Programming\Docker\App\obj\Debug\net5.0\NetCore.Docker.dll
+E:\OneDrive\Documents\Programming\Docker\App\obj\Debug\net5.0\ref\NetCore.Docker.dll
+E:\OneDrive\Documents\Programming\Docker\App\obj\Debug\net5.0\NetCore.Docker.pdb
+E:\OneDrive\Documents\Programming\Docker\App\obj\Debug\net5.0\NetCore.Docker.genruntimeconfig.cache
